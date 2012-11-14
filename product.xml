@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<name>R15</name>
+		<make>Yamaha</make>
+		<engine-cc>150</engine-cc>
+		<type>sports</type>
+	</product>
+	<product>
+		<name>Duke</name>
+		<make>KTM</make>
+		<engine-cc>200</engine-cc>
+		<type>Street</type>
+	</product>
+	<product>
+		<name>GS650GS Sertao</name>
+		<make>BMW</make>
+		<engine-cc>650</engine-cc>
+		<type>Enduro</type>
+	</product>
+	<product>
+		<name>Multistada</name>
+		<make>Ducati</make>
+		<engine-cc>1210</engine-cc>
+		<type>Touring</type>
+	</product>
+</products>
